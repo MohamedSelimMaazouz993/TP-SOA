@@ -13,7 +13,7 @@ import javax.jws.WebParam;
 
 /**
  *
- * @author Sam
+ * @author Mohamed Selim Maazouz
  */
 @WebService(serviceName = "CalculSimples")
 public class CalculSimples {

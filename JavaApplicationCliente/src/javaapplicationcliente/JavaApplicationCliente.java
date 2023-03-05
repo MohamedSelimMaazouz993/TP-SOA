@@ -2,7 +2,7 @@
 package javaapplicationcliente;
 
 /**
- * @author Sam
+ * @author Mohamed Selim Maazouz
  */
 public class JavaApplicationCliente {
 

@@ -3,7 +3,7 @@ package erp;
 import java.io.Serializable;
 
 /**
- * @author Sam
+ * @author Mohamed Selim Maazouz
  */
 public class Recette implements Serializable {
  private String titre ;
