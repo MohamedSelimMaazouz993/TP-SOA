@@ -1,16 +1,12 @@
 package erp;
 
 import java.net.URL;
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
 import javax.jws.WebService;
-import java.sql.DriverManager;
 
 
 /**
@@ -31,6 +27,8 @@ static {
 
     /**
      * Web service operation
+     * @param ingredient
+     * @return 
      */
     @WebMethod(operationName = "rechercheParIngredient")
     public List<Recette> rechercheParIngredient(@WebParam(name= "ingredient") String ingredient) {
