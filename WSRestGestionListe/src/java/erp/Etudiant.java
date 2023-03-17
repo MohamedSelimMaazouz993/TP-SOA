@@ -8,7 +8,7 @@ package erp;
 
 /**
  *
- * @author Sam
+ * @author Mohamed Selim Maazouz
  */
 public class Etudiant {
     private String nom;

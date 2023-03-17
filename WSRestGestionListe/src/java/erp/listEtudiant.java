@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Sam
+ * @ Sam
  */
 public class listEtudiant {
     private final List<Etudiant> liste = new ArrayList<>();

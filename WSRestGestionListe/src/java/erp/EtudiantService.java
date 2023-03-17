@@ -4,7 +4,7 @@ package erp;
 /**
  * REST Web Service
  *
- * @author Sam
+ * @author Mohamed Selim Maazouz
  */
 import java.util.List;
 import javax.ws.rs.*;

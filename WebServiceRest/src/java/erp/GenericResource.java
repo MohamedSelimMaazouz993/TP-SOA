@@ -17,7 +17,7 @@ import javax.ws.rs.core.MediaType;
 /**
  * REST Web Service
  *
- * @author Sam
+ * author Mohamed Selim Maazouz
  */
 
 @Path("Mypath")

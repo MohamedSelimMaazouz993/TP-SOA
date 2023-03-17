@@ -6,7 +6,7 @@
 
 /**
  in cmd : wsimport -keep -verbose http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
- * @author Sam
+ * @author Mohamed Selim Maazouz
  */
 import org.oorsprong.websamples.* ; 
 public class Testws {
