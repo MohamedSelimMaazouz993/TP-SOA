@@ -7,7 +7,7 @@ package calculws_client_application;
 
 /**
  *
- * @author Sam
+ * @author Mohammed Selim Maazouz
  */
 public class CalculWS_Client_Application {
 
